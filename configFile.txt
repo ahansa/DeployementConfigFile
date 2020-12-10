@@ -1,0 +1,17 @@
+externalProfileLoc=C:/Users/Administrator/Desktop/670JIRA/MAVEN_ISSUES/Project/ExportedProfile/AdminProfile/UserProfile1.substvar
+externalProfile=true
+profile=other
+backup=false
+agentPort=8079
+agentAuth=${agentAuth} 
+agentHost=localhost
+osgiPort=8765
+redeploy=false
+agentPassword=admin
+agentSSL=${agentSSL}
+agentUsername=${agentUsername}
+domain=CMDLINE-DomainNew
+appSdeployToAdminpace=true
+appSpace=CMDLINE_AppSpaceNew
+appNode=CMDLINE-AppNodeNew
+httpPort=9873
